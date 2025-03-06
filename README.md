@@ -9,8 +9,10 @@ https://doi.org/10.1016/j.ejrh.2024.102059
 Funding:  REHYDRO project funded by Interreg Aurora
 
 # Dependencies
-Xarray
-rioxarray
-Xclim
-Xesmf
-xskillscore
+- Xarray
+- rioxarray
+- Rasterio
+- Geopandas
+- Xclim
+- Xesmf
+- Xskillscore
