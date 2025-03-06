@@ -7,3 +7,10 @@ Nakigudde, C.K., Sharifi, A., Moradian, S., Patro, E.R. and Haghighi, A.T., 2024
 https://doi.org/10.1016/j.ejrh.2024.102059
 
 Funding:  REHYDRO project funded by Interreg Aurora
+
+# Dependencies
+Xarray
+rioxarray
+Xclim
+Xesmf
+xskillscore
