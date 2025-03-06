@@ -8,7 +8,7 @@ https://doi.org/10.1016/j.ejrh.2024.102059
 
 Funding:  REHYDRO project funded by Interreg Aurora
 
-# Dependencies
+## Python Dependencies
 - Xarray
 - rioxarray
 - Rasterio
