@@ -1,5 +1,5 @@
 # Climate-Projections-SSPs
-This repository consists of the notebook to downscaling climate projections.
+This repository consists of the notebook to statistical downscaling climate projections.
 
 If you find our codes useful in your research, please cite our paper
 
