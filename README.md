@@ -1,4 +1,4 @@
-# Statistical downscaling gridded climate projections (SSP scenarios)
+## Statistical Downscaling SSPs scenarios
 This repository consists of the notebook to 
 ## Statistical downscaling of climate projections.
 
